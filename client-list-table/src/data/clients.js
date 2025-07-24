@@ -1,4 +1,4 @@
-// data/clients.js
+
 const clients = [
   {
     id: 1,
